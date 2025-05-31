@@ -8,7 +8,7 @@ CoRAGen enables users to explore controversial topics and complex questions thro
 
 ## 📊 System Architecture
 
-![CoRAGen Pipeline]<img width="768" alt="Screenshot 2025-05-31 at 10 51 59 AM" src="https://github.com/user-attachments/assets/3b555ed0-b436-41dc-971d-989df11b94ab" />
+<img width="768" alt="Screenshot 2025-05-31 at 10 51 59 AM" src="https://github.com/user-attachments/assets/3b555ed0-b436-41dc-971d-989df11b94ab" />
 
 
 The system follows a comprehensive pipeline from query input through multi-aspect retrieval to summary generation and evaluation, supporting parallel processing across different perspectives.
@@ -39,19 +39,21 @@ The system follows a comprehensive pipeline from query input through multi-aspec
 ## 🖥️ Interface Screenshots
 
 ### Main Search Interface
-![CRAVE Interface](https://github.com/user-attachments/assets/main-interface.png)
+
+<img width="1408" alt="Screenshot 2025-03-27 at 10 33 43 PM" src="https://github.com/user-attachments/assets/cfa5e3b2-4e63-45c7-9842-2ffbabd4400d" />
+
 *The main interface showing aspect-based search with "Benefits" and "Drawbacks" comparison*
 
-### Comparative Results Display
-![Results Display](https://github.com/user-attachments/assets/results-display.png)
-*Side-by-side comparison of summaries with confidence scores and source counts*
-
 ### Cross-Aspect Analysis
-![Cross-Aspect Analysis](https://github.com/user-attachments/assets/cross-aspect.png)
+
+<img width="1256" alt="Screenshot 2025-03-28 at 7 16 25 PM" src="https://github.com/user-attachments/assets/7e9038b6-e6fb-49e1-acc0-0995f42eff40" />
+
 *Cross-attribute relevance visualization showing relationships between different aspects*
 
 ### Detailed Article Analysis
-![Article Analysis](https://github.com/user-attachments/assets/article-analysis.png)
+
+<img width="1402" alt="Screenshot 2025-05-31 at 10 57 47 AM" src="https://github.com/user-attachments/assets/6d11e8ed-b939-420a-a7d7-4dda426e0604" />
+
 *Detailed view with article relevance scores and expandable content*
 
 ## 🚀 Quick Start
