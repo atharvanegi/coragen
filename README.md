@@ -2,15 +2,14 @@
 
 A comparative visualization framework designed for multi-aspect Retrieval Augmented Generation (RAG) that supports analysis across diverse dimensions and perspectives.
 
-**[⬇️ Download this README.md file by clicking the download button in the top-right corner of this artifact]**
-
 ## 🌟 Overview
 
 CoRAGen enables users to explore controversial topics and complex questions through a comparative lens, retrieving and presenting evidence from multiple perspectives side-by-side. Built for power users such as students, researchers, lawyers, scientists, and policymakers who require comprehensive analysis and verifiable information.
 
 ## 📊 System Architecture
 
-![CoRAGen Pipeline](https://github.com/user-attachments/assets/pipeline-overview.png)
+![CoRAGen Pipeline]<img width="768" alt="Screenshot 2025-05-31 at 10 51 59 AM" src="https://github.com/user-attachments/assets/3b555ed0-b436-41dc-971d-989df11b94ab" />
+
 
 The system follows a comprehensive pipeline from query input through multi-aspect retrieval to summary generation and evaluation, supporting parallel processing across different perspectives.
 
